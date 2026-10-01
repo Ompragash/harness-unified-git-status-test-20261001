@@ -1,0 +1,5 @@
+This pull request validates Harness Git status behavior when a CI stage is intentionally skipped.
+
+Expected status contexts:
+- harness-unified/required-running-stage
+- harness-unified/required-skipped-stage
