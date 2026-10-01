@@ -1,0 +1,2 @@
+This commit exists only to validate Harness Git status behavior for a pull request.
+This second commit triggers the real GitHub pull-request webhook path.
